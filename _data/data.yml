@@ -15,8 +15,8 @@ sidebar:
     email: liangsong23@gmail.com
     phone: 408 242 8661
     website: liang.github.io #do not add http://
-    linkedin: linkedin.com/in/liangsong23/
-    github: github.com/liangsong23
+    linkedin: liangsong23/
+    github: liangsong23
     gitlab:
     bitbucket:
     twitter:
@@ -135,7 +135,7 @@ projects:
 
       - title: Programming
         tagline: "Python, cURL"
-        
+
 skills:
     title: Skills Proficiency
 
