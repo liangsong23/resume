@@ -125,7 +125,7 @@ projects:
         tagline: "XML, HTML, CSS, Markdown, JSON, YAML"
 
       - title: Tools
-        tagline: "Oxygen XML, Madcap Flare, Perforce, GitHub, Confluence, JIRA, Camtasia, Snagit, Illustrator, InDesign, Dreamweaver, MS Office, Postman"
+        tagline: "Oxygen XML, Madcap Flare, Perforce, GitHub, Confluence, JIRA, Camtasia, Snagit, Illustrator, InDesign, Dreamweaver, MS Office, Postman, cURL"
 
       - title: Technology
         tagline: "REST and SOAP APIs, networking and routing protocols, cloud technology, virtualization, network security, SDN, SD-WAN, REST, SOAP, policies, distributed systems"
@@ -133,8 +133,8 @@ projects:
       - title: Operating Systems
         tagline: "Windows, macOS"
 
-      - title: Programming
-        tagline: "Python, cURL"
+      - title: Coding
+        tagline: "Python"
 
 skills:
     title: Proficiency
@@ -163,7 +163,7 @@ skills:
       - name: Operating Systems
         level: 85%
 
-      - name: Python
+      - name: Coding
         level: 35%
 
 footer: >
