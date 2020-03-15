@@ -44,36 +44,6 @@ sidebar:
       - item: User research
         link:
 
-    proficiency:
-        title: Proficiency
-
-        toolset:
-          - name: Technical writing
-            details: |
-              DITA, topic-based authoring, readability, minimalism, API documentation, video learning, release notes, editing
-            level: 98%
-
-          - name: Writing methods
-            details: |
-              XML, HTML, CSS, Markdown, JSON, YAML, cURL
-            level: 80%
-
-          - name: Tools
-            details: |
-              Oxygen XML, Madcap Flare, Perforce, GitHub, Confluence, JIRA, Camtasia, Snagit, Illustrator, InDesign, Dreamweaver, MS Office, Postman
-            level: 90%
-
-          - name: Technology
-            details: |
-              REST and SOAP APIs, networking and routing protocols, cloud technology, virtualization, network security, SDN, SD-WAN, REST, SOAP, policies, distributed systems
-            level: 80%
-
-          - name: Operating Systems
-            level: 85%
-
-          - name: Python
-            level: 35%
-
 career-profile:
     title: Career Profile
     summary: |
