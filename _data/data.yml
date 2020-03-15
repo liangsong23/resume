@@ -116,13 +116,13 @@ experiences:
 projects:
     title: Skills
     intro: >
-      What I've learned over the years. 
+      What I've learned over the years.
     assignments:
       - title: Technical writing
         tagline: "DITA, topic-based authoring, readability, minimalism, API documentation, video learning, release notes, editing"
 
       - title: Writing methods
-        tagline: "XML, HTML, CSS, Markdown, JSON, YAML, cURL"
+        tagline: "XML, HTML, CSS, Markdown, JSON, YAML"
 
       - title: Tools
         tagline: "Oxygen XML, Madcap Flare, Perforce, GitHub, Confluence, JIRA, Camtasia, Snagit, Illustrator, InDesign, Dreamweaver, MS Office, Postman"
@@ -130,10 +130,12 @@ projects:
       - title: Technology
         tagline: "REST and SOAP APIs, networking and routing protocols, cloud technology, virtualization, network security, SDN, SD-WAN, REST, SOAP, policies, distributed systems"
 
+      - title: Operating Systems
+        tagline: "Windows, macOS"
+
       - title: Programming
-        tagline: "Python"
-
-
+        tagline: "Python, cURL"
+        
 skills:
     title: Skills Proficiency
 
@@ -146,17 +148,20 @@ skills:
       - name: Writing methods
         details: |
           XML, HTML, CSS, Markdown, JSON, YAML, cURL
-        level: 98%
+        level: 80%
 
       - name: Tools
         details: |
           Oxygen XML, Madcap Flare, Perforce, GitHub, Confluence, JIRA, Camtasia, Snagit, Illustrator, InDesign, Dreamweaver, MS Office, Postman
-        level: 98%
+        level: 90%
 
       - name: Technology
         details: |
           REST and SOAP APIs, networking and routing protocols, cloud technology, virtualization, network security, SDN, SD-WAN, REST, SOAP, policies, distributed systems
         level: 80%
+
+      - name: Operating Systems
+        level: 90%
 
       - name: Python
         level: 20%
