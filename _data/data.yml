@@ -35,13 +35,13 @@ sidebar:
         level: Limited
 
     interests:
-      - item: Reading
+      - item: Content strategy
         link:
 
-      - item: Basketball
+      - item: Readability
         link:
 
-      - item: Comic book history
+      - item: User research
         link:
 
 career-profile:
@@ -113,17 +113,29 @@ experiences:
           - Wrote REST API reference guides for F5's BIG-IQ Access product line.
           - Part of a team publishing instructional videos using Camtasia.
 
-publications:
-    title: Wrting samples
-    intro: |
-      You can view my writing samples in the following link.
-    papers:
-      - title: liang.github.io
-        link: "liang.github.io"
+projects:
+    title: Skills
+    intro: >
+      What I've learned over the years. 
+    assignments:
+      - title: Technical writing
+        tagline: "DITA, topic-based authoring, readability, minimalism, API documentation, video learning, release notes, editing"
+
+      - title: Writing methods
+        tagline: "XML, HTML, CSS, Markdown, JSON, YAML, cURL"
+
+      - title: Tools
+        tagline: "Oxygen XML, Madcap Flare, Perforce, GitHub, Confluence, JIRA, Camtasia, Snagit, Illustrator, InDesign, Dreamweaver, MS Office, Postman"
+
+      - title: Technology
+        tagline: "REST and SOAP APIs, networking and routing protocols, cloud technology, virtualization, network security, SDN, SD-WAN, REST, SOAP, policies, distributed systems"
+
+      - title: Programming
+        tagline: "Python"
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills Proficiency
 
     toolset:
       - name: Technical writing
@@ -148,3 +160,8 @@ skills:
 
       - name: Python
         level: 20%
+
+publications:
+    title: Writing samples
+    intro: |
+      You can view my writing samples at liang.github.io.
