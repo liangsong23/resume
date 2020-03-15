@@ -44,6 +44,10 @@ sidebar:
       - item: User research
         link:
 
+    writing samples:
+      - item: liang.github.io
+        link: liang.github.io
+
 career-profile:
     title: Career Profile
     summary: |
@@ -113,11 +117,6 @@ experiences:
           - Wrote REST API reference guides for F5's BIG-IQ Access product line.
           - Part of a team publishing instructional videos using Camtasia.
 
-publications:
-    title: Writing samples
-    intro: |
-      You can view my writing samples at liang.github.io.
-      
 projects:
     title: Skills
     intro: >
@@ -170,3 +169,6 @@ skills:
 
       - name: Python
         level: 20%
+
+footer: >
+    Updated March, 2020</a>
