@@ -112,8 +112,8 @@ experiences:
           - Published HTML and PDF documents using Adobe CQ5.
           - Wrote sofware and networking guides, including 2FA, AAA, SAML, and OAuth.
           - Wrote REST API reference guides for F5's BIG-IQ Access product line.
-          - Completed 13 BIG-IP releases and 5 BIG-IQ releases
-          - Wrote over 30 compatibility matrix docs
+          - Completed 13 BIG-IP releases and 5 BIG-IQ releases.
+          - Wrote over 30 compatibility matrix docs.
           - Part of a team publishing instructional videos using Camtasia.
 
 projects:
@@ -145,7 +145,7 @@ skills:
     toolset:
       - name: Technical writing
         details: |
-          DITA, topic-based authoring, readability, minimalism, API documentation, video learning, release notes, editing
+          DITA, topic-based authoring, online-help, readability, minimalism, API documentation, video learning, release notes, editing
         level: 98%
 
       - name: Writing methods
