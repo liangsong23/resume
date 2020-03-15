@@ -113,6 +113,11 @@ experiences:
           - Wrote REST API reference guides for F5's BIG-IQ Access product line.
           - Part of a team publishing instructional videos using Camtasia.
 
+publications:
+    title: Writing samples
+    intro: |
+      You can view my writing samples at liang.github.io.
+      
 projects:
     title: Skills
     intro: >
@@ -165,8 +170,3 @@ skills:
 
       - name: Python
         level: 20%
-
-publications:
-    title: Writing samples
-    intro: |
-      You can view my writing samples at liang.github.io.
