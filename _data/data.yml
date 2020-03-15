@@ -82,6 +82,7 @@ experiences:
       time: July 2019 - Present
       company: PayPal, San Jose, CA
       details: |
+         Where I'm am now. Spending my time focusing on the end-to-end API documentation process.
           - API writer for PayPal’s developr documentation.
           - Managed the launch of PayPal Commerce Platform.
           - Defined the planning and strategies for product documents.
@@ -115,9 +116,9 @@ experiences:
 publications:
     title: Wrting samples
     intro: |
-      View my writing samples.
+      You can view my writing samples in the following link.
     papers:
-      - title: My writing samples
+      - title: liang.github.io
         link: "liang.github.io"
 
 
@@ -126,13 +127,24 @@ skills:
 
     toolset:
       - name: Technical writing
+        details: |
+          DITA, topic-based authoring, readability, minimalism, API documentation, video learning, release notes, editing
         level: 98%
 
-      - name: Programming
+      - name: Writing methods
+        details: |
+          XML, HTML, CSS, Markdown, JSON, YAML, cURL
         level: 98%
 
       - name: Tools
+        details: |
+          Oxygen XML, Madcap Flare, Perforce, GitHub, Confluence, JIRA, Camtasia, Snagit, Illustrator, InDesign, Dreamweaver, MS Office, Postman
         level: 98%
 
       - name: Technology
-        level: 95%
+        details: |
+        REST and SOAP APIs, networking and routing protocols, cloud technology, virtualization, network security, SDN, SD-WAN, REST, SOAP, policies, distributed systems
+        level: 80%
+
+      - name: Python
+        level: 20%
