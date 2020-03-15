@@ -1,5 +1,5 @@
 {% assign proficiency = site.data.data.proficiency %}
-{% if skills %}
+{% if proficiency %}
 <div class="interests-container container-block">
 
   <h2 class="proficiency-block-title">
@@ -7,7 +7,7 @@
   </h2>
   <div class="skillset">
 
-    {% for proficiency in proficiency.toolset %}
+    {% for proficiency in skills.toolset %}
   <div class="item">
 
     <h3 class="level-title">{{ skill.name }}</h3>
