@@ -15,8 +15,8 @@ sidebar:
     email: liangsong23@gmail.com
     phone: 408 242 8661
     website: liang.github.io #do not add http://
-    linkedin: liangsong23/
-    github: liangsong23
+    linkedin: https://www.linkedin.com/in/liangsong23/
+    github: https://github.com/liangsong23
     gitlab:
     bitbucket:
     twitter:
@@ -138,36 +138,6 @@ projects:
 
       - title: Coding
         tagline: "Python, data structures, algorithms"
-
-skills:
-    title: Proficiency
-
-    toolset:
-      - name: Technical writing
-        details: |
-          DITA, topic-based authoring, online-help, readability, minimalism, API documentation, video learning, release notes, editing
-        level: 98%
-
-      - name: Writing methods
-        details: |
-          XML, HTML, CSS, Markdown, JSON, YAML, cURL
-        level: 80%
-
-      - name: Tools
-        details: |
-          Oxygen XML, Madcap Flare, Perforce, GitHub, Confluence, JIRA, Camtasia, Snagit, Illustrator, InDesign, Dreamweaver, MS Office, Postman
-        level: 90%
-
-      - name: Technology
-        details: |
-          REST and SOAP APIs, networking and routing protocols, cloud technology, virtualization, network security, SDN, SD-WAN, REST, SOAP, policies, distributed systems
-        level: 80%
-
-      - name: Operating Systems
-        level: 85%
-
-      - name: Coding
-        level: 35%
 
 footer: >
     Updated March, 2020</a>
