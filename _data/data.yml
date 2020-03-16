@@ -124,7 +124,7 @@ projects:
       - title: Technical writing
         tagline: "DITA, topic-based authoring, readability, minimalism, API documentation, video learning, release notes, editing"
 
-      - title: Writing methods
+      - title: How I write
         tagline: "XML, HTML, CSS, Markdown, JSON, YAML"
 
       - title: Tools
@@ -138,6 +138,28 @@ projects:
 
       - title: Coding
         tagline: "Python, data structures, algorithms"
+
+skills:
+    title: Proficiency
+
+    toolset:
+      - name: Technical writing
+        level: 95%
+
+      - name: How I write
+        level: 85%
+
+      - name: Tools
+        level: 80%
+
+      - name: Technology
+        level: 80%
+
+      - name: Operating Systems
+        level: 85%
+
+      - name: Coding
+        level: 30%
 
 footer: >
     Updated March, 2020</a>
