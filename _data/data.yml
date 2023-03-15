@@ -78,14 +78,26 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Senior Technical Writer
-      time: July 2019 - Present
+    - role: Documentation Manager
+      time: July 2021 - Present
       company: PayPal, San Jose, CA
       details: |
-         Where I am now. My role focuses on leading the end-to-end API documentation process.
+         I took on a new role, leading a team of motivated technical writers.
+          - Managed the entire developer documentation catalogue for PayPal, Braintree, and Hyperwallet brands.
+          - Hired, trained, and mentored a group of talented content experts.
+          - Created, defined, and gained leadership approval on roadmaps for the team's growing initatives.
+          - Set clear expectations with the team and their stakeholders on roles and responsibilities.
+          - Upgraded and enforced the team's style guide, templates, and best practices.
+          - Promoted a culture of inclusion and diversity within the team.
+      
+    - role: Senior Technical Writer
+      time: July 2019 - July 2021
+      company: PayPal, San Jose, CA
+      details: |
+         Where I am now. My role focused on leading the end-to-end API documentation process.
           - API writer for PayPal’s developr documentation.
-          - Wrote and edit API integration guides.
-          - Managed the launch of PayPal's rebranded developer documentation portal.
+          - Wrote, edited, and delivered complete API integration guides.
+          - Managed and finalized the launch of PayPal's rebranded developer documentation portal.
           - Defined the planning and strategies for creating API documents.
           - Established the team's style guide, templates, and best practices.
 
@@ -108,13 +120,13 @@ experiences:
         My first full-time writing role, starting as a junior writer
         before being promoted twice during my tenure.
           - Lead writer for three F5 product lines.
-          - Wrote technical documentation in DITA using Oxygen XML.
+          - Wrote and delivered technical documentation in DITA using Oxygen XML.
           - Published HTML and PDF documents using Adobe CQ5.
           - Wrote sofware and networking guides, including 2FA, AAA, SAML, and OAuth.
           - Wrote REST API reference guides for F5's BIG-IQ Access product line.
-          - Completed 13 BIG-IP releases and 5 BIG-IQ releases.
-          - Wrote over 30 compatibility matrix docs.
-          - Part of a team publishing instructional videos using Camtasia.
+          - Delivered 13 quarterly BIG-IP releases and 5 BIG-IQ releases.
+          - Authored over 30 compatibility matrix docs.
+          - Published instructional videos using Camtasia.
 
 projects:
     title: Skills
@@ -128,10 +140,10 @@ projects:
         tagline: "XML, HTML, CSS, Markdown, JSON, YAML"
 
       - title: Tools
-        tagline: "Oxygen XML, Madcap Flare, Perforce, GitHub, Confluence, JIRA, Camtasia, Snagit, Illustrator, InDesign, Dreamweaver, MS Office, Postman, cURL"
+        tagline: "Oxygen XML, Madcap Flare, Perforce, GitHub, Confluence, JIira, Camtasia, Snagit, Illustrator, InDesign, Dreamweaver, MS Office, Postman, cURL"
 
       - title: Technology
-        tagline: "REST and SOAP APIs, networking and routing protocols, cloud technology, virtualization, network security, distributed systems, e-finance"
+        tagline: "REST and SOAP APIs, SDKs, online payments, networking/routing protocols, cloud technology, virtualization, network security, distributed systems"
 
       - title: Operating Systems
         tagline: "Windows, macOS"
@@ -139,27 +151,5 @@ projects:
       - title: Coding
         tagline: "Python, data structures, algorithms"
 
-skills:
-    title: Proficiency
-
-    toolset:
-      - name: Technical writing
-        level: 95%
-
-      - name: How I write
-        level: 85%
-
-      - name: Tools
-        level: 80%
-
-      - name: Technology
-        level: 80%
-
-      - name: Operating Systems
-        level: 85%
-
-      - name: Coding
-        level: 30%
-
 footer: >
-    Updated March, 2020</a>
+    Updated March, 2023</a>
