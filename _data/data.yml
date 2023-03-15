@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Liang Song
-    tagline: Senior Technical Writer
+    tagline: Documentation Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -85,6 +85,7 @@ experiences:
          I took on a new role, leading a team of motivated technical writers.
           - Managed the entire developer documentation catalogue for PayPal, Braintree, and Hyperwallet brands.
           - Hired, trained, and mentored a group of talented content experts.
+          - Delivered a complete set of developer docs for PayPal's China geo-expansion.
           - Created, defined, and gained leadership approval on roadmaps for the team's growing initatives.
           - Set clear expectations with the team and their stakeholders on roles and responsibilities.
           - Upgraded and enforced the team's style guide, templates, and best practices.
